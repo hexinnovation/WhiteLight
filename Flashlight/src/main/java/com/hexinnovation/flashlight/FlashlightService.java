@@ -255,7 +255,7 @@ public class FlashlightService extends Service {
 
                 Resources res = sService.getResources();
 
-                sNotification.contentIntent = pendingIntent;
+                sNotificationView.setOnClickPendingIntent(R.id.status_bar_latest_event_content, pendingIntent);
                 sNotificationView.setTextViewText(R.id.title, res.getString(R.string.app_name));
                 sNotificationView.setTextViewText(R.id.text, res.getString(isLightOn ? R.string.notification_light_on : R.string.notification_light_off));
 

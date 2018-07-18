@@ -2,7 +2,7 @@
 
 This is the source code for [White Light Flashlight](https://play.google.com/store/apps/details?id=com.hexinnovation.flashlight). What's actually published to the Google Play store is a slightly older version of this code that targets Android Nougat, instead of Oreo or Android P. The app on the store also supports Android Gingerbread.
 
-There are some modifications in this repository because Android Oreo introduced [Notification Channels](https://developer.android.com/training/notify-user/channels). Thus any app targeting Oreo needs to be updated appropriately.
+There are some modifications in this repository because Android Oreo introduced [Notification Channels](https://developer.android.com/training/notify-user/channels). Thus any app targeting Oreo needs to be updated appropriately. I have not yet had a chance to fully test the new changes, so it's possible that these updates have broken compatibility with older devices.
 
 But by and large, this is White Light Flashlight, as available on the store. Please feel free to use it however you'd like. I only request that you do not release it on the Play Store (or any equivalent release channels) with a name that is substantially equivalent to "White Light."
 
