@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PORTUGUESE -->
+    <string name="app_name">White Light Flashlight</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">Toque para desligar a luz</string>
+    <string name="notification_light_off">Toque para ligar a luz</string>
+    <string name="swipe_on">Acender</string>
+    <string name="swipe_off">Desligar</string>
+    <string name="screen_brightness">Brilho da tela</string>
+    <string name="torch_not_supported">O modo de lanterna não é suportado em seu dispositivo</string>
+    <string name="error_opening_camera">Não é possível ligar com a câmera</string>
+    <string name="settings">Configurações</string>
+    <string name="camera_permissions_required_title">Permissão para o uso da câmera</string>
+    <string name="camera_permissions_required_message">A White Light precisa ter acesso a sua câmera para poder ligar a lanterna.</string>
+    <string name="dont_allow">NÃO PERMITIR</string>
+    <string name="allow">PERMITIR</string>
+    <string name="theme_title">Tema</string>
+    <string name="restart_light_title">Reiniciar a laterna quando a tela desligar</string>
+    <string name="restart_light_message">Habilitar essa configuração se a lanterna apaga quando a tela é desligada</string>
+    <string name="notification_title">Mostrar notificação</string>
+    <string name="notification_never">Nunca</string>
+    <string name="notification_sometimes">Ao bloquear a tela</string>
+    <string name="notification_always">Sempre</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- HINDI -->
+    <string name="app_name">White Light टॉर्च</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">प्रकाश बंद करने के लिए स्पर्श</string>
+    <string name="notification_light_off">प्रकाश पर बारी करने के लिए स्पर्श</string>
+    <string name="swipe_on">पर स्वाइप</string>
+    <string name="swipe_off">बंद स्वाइप</string>
+    <string name="screen_brightness">स्क्रीन की तेजस्विता</string>
+    <string name="torch_not_supported">टॉर्च मोड अपने डिवाइस पर समर्थित नहीं है</string>
+    <string name="error_opening_camera">कैमरे से कनेक्ट नहीं कर सकते</string>
+    <string name="settings">सेटिङ</string>
+    <string name="camera_permissions_required_title">कैमरा अनुमतियों की आवश्यकता</string>
+    <string name="camera_permissions_required_message">व्हाइट प्रकाश टॉर्च को चालू करने के क्रम में कैमरा अनुमतियों की जरूरत है </string>
+    <string name="dont_allow">अनुमति नहीं देते</string>
+    <string name="allow">अनुमति</string>
+    <string name="theme_title">विषय</string>
+    <string name="restart_light_title">स्क्रीन बंद हो जाती है जब प्रकाश पुन: प्रारंभ करें</string>
+    <string name="restart_light_message">स्क्रीन बंद हो जाती है जब टॉर्च बंद हो जाती है तो इस सेटिङ सक्षम करें</string>
+    <string name="notification_title">अधिसूचना दिखाएं</string>
+    <string name="notification_never">कभी नहीं</string>
+    <string name="notification_sometimes">लॉक स्क्रीन पर</string>
+    <string name="notification_always">सदैव</string>
+</resources>

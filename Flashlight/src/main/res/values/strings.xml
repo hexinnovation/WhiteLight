@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">White Light Flashlight</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">Tap to turn off the light</string>
+    <string name="notification_light_off">Tap to turn on the light</string>
+    <string name="swipe_on">Swipe on</string>
+    <string name="swipe_off">Swipe off</string>
+    <string name="screen_brightness">Screen Brightness</string>
+    <string name="torch_not_supported">Flashlight mode isn’t supported on your device</string>
+    <string name="error_opening_camera">Can’t connect to the camera</string>
+    <string name="settings">Settings</string>
+    <string name="camera_permissions_required_title">Camera Permissions Required</string>
+    <string name="camera_permissions_required_message">White Light needs camera permissions in order to turn on the flashlight.</string>
+    <string name="dont_allow">DON’T ALLOW</string>
+    <string name="allow">ALLOW</string>
+    <string name="theme_title">Theme</string>
+    <string name="restart_light_title">Restart light when screen turns off</string>
+    <string name="restart_light_message">Enable this setting if the flashlight doesn’t work when the screen is off</string>
+    <string name="notification_title">Show notification</string>
+    <string name="notification_never">Never</string>
+    <string name="notification_sometimes">At the lock screen</string>
+    <string name="notification_always">Always</string>
+    <string name="notification_channel_name">Notification</string>
+    <string name="notification_channel_description">A notification to toggle the flashlight</string>
+</resources>

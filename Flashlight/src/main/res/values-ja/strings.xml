@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- JAPANESE -->
+    <string name="app_name">White Light フラッシュライト</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">タップしてLEDライトを消す</string>
+    <string name="notification_light_off">タップしてLEDライトを付ける</string>
+    <string name="swipe_on">スライドして付ける</string>
+    <string name="swipe_off">スライドして消す</string>
+    <string name="screen_brightness">画面の明るさ調整</string>
+    <string name="torch_not_supported">お使いの端末は懐中電灯モードに対応していません。</string>
+    <string name="error_opening_camera">カメラにアクセスできません</string>
+    <string name="settings">設定</string>
+    <string name="camera_permissions_required_title">カメラ機能のアクセス許可</string>
+    <string name="camera_permissions_required_message">LEDライトを付けるには、カメラ機能へのアクセスを許可する必要があります。</string>
+    <string name="dont_allow">許可しない</string>
+    <string name="allow">許可する</string>
+    <string name="theme_title">テーマ</string>
+    <string name="restart_light_title">画面の表示が消えたときにLEDライトを再起動する</string>
+    <string name="restart_light_message">画面の表示が消えたときにLEDライトが付かない場合、この設定をONにして下さい。</string>
+    <string name="notification_title">通知表示設定</string>
+    <string name="notification_never">表示しない</string>
+    <string name="notification_sometimes">ロック画面のみで表示する</string>
+    <string name="notification_always">常に表示する</string>
+</resources>

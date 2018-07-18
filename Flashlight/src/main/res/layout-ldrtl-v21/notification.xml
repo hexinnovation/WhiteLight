@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/status_bar_latest_event_content"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:tag="base" >
+    <FrameLayout
+        android:layout_width="@dimen/notification_large_icon_width"
+        android:layout_height="@dimen/notification_large_icon_height"
+        android:layout_gravity="right"
+        android:id="@+id/icon_group">
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
+            android:scaleType="centerInside"
+            android:background="@drawable/notification_icon_legacy_bg" />
+    </FrameLayout>
+    <LinearLayout
+        android:id="@+id/notification_main_column"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top"
+        android:paddingTop="@dimen/notification_top_pad"
+        android:layout_marginRight="@dimen/notification_large_icon_width"
+        android:minHeight="@dimen/notification_large_icon_height"
+        android:layout_marginLeft="8dp"
+        android:orientation="vertical" >
+        <TextView android:id="@+id/title"
+            android:textSize="16sp"
+            android:textColor="@color/primary_text_default_material_light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            android:fadingEdge="horizontal" />
+        <TextView
+            android:id="@+id/text"
+            android:textColor="@color/secondary_text_material_light"
+            android:textSize="@dimen/notification_text_size"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            android:fadingEdge="horizontal" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+build/
+gradle/
+local.properties
+gradlew
+gradlew.bat
+
+*.iml
+*.apk
+cropper/

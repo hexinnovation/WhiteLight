@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root">
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        android:id="@+id/rtl"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/settings_tab"
+        android:background="@color/bg_light">
+        <com.hexinnovation.flashlight.SettingsActionBar
+            android:id="@+id/settings_bar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize" />
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/settings_bar">
+            <include layout="@layout/settings_tab" />
+        </FrameLayout>
+        <View
+            android:layout_below="@id/settings_bar"
+            android:layout_width="fill_parent"
+            android:layout_height="6dp"
+            android:background="@drawable/drop_shadow" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top"
+        android:id="@+id/main_tab"
+        android:background="@color/bg_light">
+        <com.hexinnovation.flashlight.GearActionBar
+            android:id="@+id/gear"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize" />
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/gear">
+            <include layout="@layout/main_tab" />
+        </FrameLayout>
+        <View
+            android:layout_below="@id/gear"
+            android:layout_width="fill_parent"
+            android:layout_height="6dp"
+            android:background="@drawable/drop_shadow" />
+    </RelativeLayout>
+    <com.hexinnovation.flashlight.OverlayView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:clickable="true"
+        android:id="@+id/overlay" />
+</FrameLayout>

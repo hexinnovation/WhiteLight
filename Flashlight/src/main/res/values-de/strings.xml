@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GERMAN -->
+    <string name="app_name">White Light Flashlight</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">Licht ausschalten</string>
+    <string name="notification_light_off">Licht einschalten</string>
+    <string name="swipe_on">Einschalten</string>
+    <string name="swipe_off">Ausschalten</string>
+    <string name="screen_brightness">Bildschirmhelligkeit</string>
+    <string name="torch_not_supported">Der Taschenlampenmodus wird auf diesem Gerät nicht unterstützt</string>
+    <string name="error_opening_camera">Verbindung mit der Kamera nicht möglich</string>
+    <string name="settings">Einstellungen</string>
+    <string name="camera_permissions_required_title">Erlaubnis zum Kamerazugriff</string>
+    <string name="camera_permissions_required_message">White Light benötigt zum Einschalten des Lichts die Erlaubnis zum Zugriff auf die Kamera.</string>
+    <string name="dont_allow">NICHT ERLAUBT</string>
+    <string name="allow">ERLAUBT</string>
+    <string name="theme_title">Das Motiv</string>
+    <string name="restart_light_title">Licht einschalten, wenn der Bildschirm dunkel wird</string>
+    <string name="restart_light_message">Aktivieren Sie diese Einstellung, falls sich das Licht ausschaltet, wenn  der Bildschirm dunkel wird.</string>
+    <string name="notification_title">Benachrichtigung anzeigen</string>
+    <string name="notification_never">Nie</string>
+    <string name="notification_sometimes">Auf dem Sperrbildschirm</string>
+    <string name="notification_always">Immer</string>
+</resources>

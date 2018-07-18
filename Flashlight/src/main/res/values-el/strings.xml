@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GREEK -->
+    <string name="app_name">White Light Flashlight</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">Αγγίξτε για άνοιγμα φωτός</string>
+    <string name="notification_light_off">Αγγίξτε για να απενεργοποιήσετε το φως</string>
+    <string name="swipe_on">Άνοιγμα</string>
+    <string name="swipe_off">Κλείσιμο</string>
+    <string name="screen_brightness">Φωτεινότητα όθονης</string>
+    <string name="torch_not_supported">Η λειτουργία φακού δεν υποστηρίζεται στη συσκευή σας.</string>
+    <string name="error_opening_camera">Δεν μπορεί να συνδεθεί με την κάμερα</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="camera_permissions_required_title">Απαιτείται πρόσβαση στην κάμερα</string>
+    <string name="camera_permissions_required_message">Το White Light απαιτεί άδεια για να ενεργοποιήσει τον φακό.</string>
+    <string name="dont_allow">ΔΕΝ ΕΠΙΤΡΕΠΩ</string>
+    <string name="allow">ΕΠΙΤΡΕΠΩ</string>
+    <string name="theme_title">Θέμα</string>
+    <string name="restart_light_title">Επανεκκίνηση φωτός όταν η οθόνη σβήσει</string>
+    <string name="restart_light_message">Ενεργοποιήστε τη ρύθμιση αυτή εάν ο φακός σβήσει όταν η οθόνη σβήσει</string>
+    <string name="notification_title">Εμφάνιση ειδοποίησης</string>
+    <string name="notification_never">Ποτέ</string>
+    <string name="notification_sometimes">Στην οθόνη κλειδώματος</string>
+    <string name="notification_always">Πάντα</string>
+</resources>

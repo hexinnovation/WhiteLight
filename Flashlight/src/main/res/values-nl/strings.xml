@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DUTCH -->
+    <string name="app_name">Wit Licht Zaklamp</string>
+    <string name="launcher_name">Wit Licht</string>
+    <string name="notification_light_on">Klik om het licht aan te doen</string>
+    <string name="notification_light_off">Klik om het licht uit te doen</string>
+    <string name="swipe_on">Swipe aan</string>
+    <string name="swipe_off">Swipe uit</string>
+    <string name="screen_brightness">Schermhelderheid</string>
+    <string name="torch_not_supported">Zaklamp modus wordt niet ondersteund op dit apparaat</string>
+    <string name="error_opening_camera">Kan geen verbinding maken met de camera</string>
+    <string name="settings">Instellingen</string>
+    <string name="camera_permissions_required_title">Camera toestemmingen nodig</string>
+    <string name="camera_permissions_required_message">Wit Licht maakt gebruik van de camera om de zaklamp in te schakelen.</string>
+    <string name="dont_allow">AFWIJZEN</string>
+    <string name="allow">TOESTAAN</string>
+    <string name="theme_title">Thema</string>
+    <string name="restart_light_title">Herstart het licht wanneer het scherm wordt uitgeschakeld</string>
+    <string name="restart_light_message">Deze instelling in staat stellen om het zaklamp uit te schakelen wanneer het scherm wordt uitgeschakeld</string>
+    <string name="notification_title">Toon kennisgeving</string>
+    <string name="notification_never">Nooit</string>
+    <string name="notification_sometimes">Op het lockscreen</string>
+    <string name="notification_always">Altijd</string>
+</resources>

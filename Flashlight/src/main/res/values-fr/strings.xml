@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FRENCH -->
+    <string name="app_name">Lampe de poche White Light</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">Touchez pour éteindre la lumière</string>
+    <string name="notification_light_off">Touchez pour allumer la lumière</string>
+    <string name="swipe_on">Allumer</string>
+    <string name="swipe_off">Éteindre</string>
+    <string name="screen_brightness">Luminosité</string>
+    <string name="torch_not_supported">Mode lampe de poche n\'est pas supporté par votre appareil électronique</string>
+    <string name="error_opening_camera">Incapable de se connecter à l\'appareil photographique</string>
+    <string name="settings">Paramètres</string>
+    <string name="camera_permissions_required_title">Autorisations d\'appareil photographique sont obligatoires</string>
+    <string name="camera_permissions_required_message">Lumière blanche a besoin des autorisations d\'appareil photographique pour allumer la lumière.</string>
+    <string name="dont_allow">NE PERMETTRE PAS</string>
+    <string name="allow">PERMETTRE</string>
+    <string name="theme_title">Thème</string>
+    <string name="restart_light_title">Rallumer la lumière quand l\'écran éteint</string>
+    <string name="restart_light_message">Activez ce paramètre si la lampe de poche éteint quand l\'écran éteint</string>
+    <string name="notification_title">Afficher la notification</string>
+    <string name="notification_never">Jamais</string>
+    <string name="notification_sometimes">Sur l\'écran de verrouillage</string>
+    <string name="notification_always">Toujours</string>
+</resources>

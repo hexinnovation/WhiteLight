@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="slider_height">80dp</dimen>
+    <dimen name="text_size">@dimen/abc_text_size_title_material</dimen>
+    <dimen name="title_size">@dimen/abc_text_size_title_material_toolbar</dimen>
+    <dimen name="arrow_width">45dp</dimen>
+    <dimen name="arrow_height">30dp</dimen>
+    <dimen name="arrow_thickness">1.5dp</dimen>
+    <dimen name="line_thickness">2dp</dimen>
+
+    <dimen name="switch_width">60dp</dimen>
+    
+    <dimen name="brightness_slider_height">46.5dp</dimen>
+    <dimen name="padding">30dp</dimen>
+    <dimen name="gear_height">24dp</dimen>
+    <dimen name="brightness_v_padding">10dp</dimen>
+</resources>

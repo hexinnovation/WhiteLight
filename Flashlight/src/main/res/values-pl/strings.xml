@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- POLISH -->
+    <string name="app_name">Latarka</string>
+    <string name="launcher_name">Latarka</string>
+    <string name="notification_light_on">Dotknij, aby wyłączyć</string>
+    <string name="notification_light_off">Dotknij, aby włączyć</string>
+    <string name="swipe_on">Przesuń</string>
+    <string name="swipe_off">Przesuń</string>
+    <string name="screen_brightness">Jasność ekranu</string>
+    <string name="torch_not_supported">Tryb latarki nie jest dostępny na twoim urządzeniu</string>
+    <string name="error_opening_camera">Nie można połączyć się z aparatem</string>
+    <string name="settings">Ustawienia</string>
+    <string name="camera_permissions_required_title">Potrzebne uprawnienia do użycia aparatu</string>
+    <string name="camera_permissions_required_message">Aplikacja potrzebuje uprawnień aparatu do włączenia latarki.</string>
+    <string name="dont_allow">NIE ZEZWALAJ</string>
+    <string name="allow">ZEZWÓL</string>
+    <string name="theme_title">Motyw</string>
+    <string name="restart_light_title">Zresetuj latarkę, kiedy ekran wygaśnie</string>
+    <string name="restart_light_message">Włącz tą opcję, gdy latarka nie działa na wygaszonym ekranie</string>
+    <string name="notification_title">Pokaż powiadomienia</string>
+    <string name="notification_never">Nigdy</string>
+    <string name="notification_sometimes">Na ekranie blokady</string>
+    <string name="notification_always">Zawsze</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NEPALI -->
+    <string name="app_name">सेतो ज्योति टर्च</string>
+    <string name="launcher_name">सेतो ज्योति</string>
+    <string name="notification_light_on">ज्योति बन्द गर्न छुनुहोस्</string>
+    <string name="notification_light_off">ज्योति चालू गर्न छुनुहोस्</string>
+    <string name="swipe_on">चालु गर्नुस</string>
+    <string name="swipe_off">बन्द गर्नुहोस</string>
+    <string name="screen_brightness">फोन चमक</string>
+    <string name="torch_not_supported">यो फोन मा तोर्च चल्दैन</string>
+    <string name="error_opening_camera">क्यामरा खुलेन</string>
+    <string name="settings">सेटिङहरू</string>
+    <string name="camera_permissions_required_title">क्यामेरा अनुमति आवश्यक</string>
+    <string name="camera_permissions_required_message">सेतो प्रकाश टर्च चालू गर्न क्यामेरा अनुमतिआवश्यक छ</string>
+    <string name="dont_allow">अनुमति नदिने</string>
+    <string name="allow">अनुमति दिने</string>
+    <string name="theme_title">विषय</string>
+    <string name="restart_light_title">स्क्रिन बन्द हुँदा प्रकाश फेरी सुरु हुने</string>
+    <string name="restart_light_message">स्क्रिन बन्द जब टर्च बन्द भने यो चलाउनु होस्</string>
+    <string name="notification_title">सूचना देखाउनुहोस</string>
+    <string name="notification_never">कहिल्यै पनि</string>
+    <string name="notification_sometimes">बन्द स्क्रीन मा</string>
+    <string name="notification_always">सधैं</string>
+</resources>

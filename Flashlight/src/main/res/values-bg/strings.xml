@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BULGARIAN -->
+    <string name="app_name">White Light Flashlight</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">Докоснете за да изключите светлината</string>
+    <string name="notification_light_off">Докоснете за да вкючите светлината</string>
+    <string name="swipe_on">включи</string>
+    <string name="swipe_off">изключи</string>
+    <string name="screen_brightness">Яркост на екрана</string>
+    <string name="torch_not_supported">Режимът фенерче не се поддържа от вашето устройство.</string>
+    <string name="error_opening_camera">Не може да се свърже с камерата</string>
+    <string name="settings">Настройки</string>
+    <string name="camera_permissions_required_title">Необходимо е разрешение за достъп до камерата</string>
+    <string name="camera_permissions_required_message">White Light се нуждае от разрешително за достъп до камерата за да включи фенерчето.</string>
+    <string name="dont_allow">НЕ ПОЗВОЛЯВАМ</string>
+    <string name="allow">ПОЗВОЛЯВАМ</string>
+    <string name="theme_title">Tема</string>
+    <string name="restart_light_title">Светлината да се включи, когато екранът изгасне</string>
+    <string name="restart_light_message">Задействайте тази настройка, ако фенерчето спира, когато екранът изгасне.</string>
+    <string name="notification_title">Покажи известие</string>
+    <string name="notification_never">Никога</string>
+    <string name="notification_sometimes">На локскрийна</string>
+    <string name="notification_always">Винаги</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SPANISH -->
+    <string name="app_name">Linterna White Light</string>
+    <string name="launcher_name">White Light</string>
+    <string name="notification_light_on">Toca para apagar la luz</string>
+    <string name="notification_light_off">Toca para prender la luz</string>
+    <string name="swipe_on">Prender</string>
+    <string name="swipe_off">Apagar</string>
+    <string name="screen_brightness">Brillo de Pantalla</string>
+    <string name="torch_not_supported">Tu dispositivo no apoya modo de linterna</string>
+    <string name="error_opening_camera">No se puede conectar a la cámara</string>
+    <string name="settings">Ajustes</string>
+    <string name="camera_permissions_required_title">Autorización Requerida</string>
+    <string name="camera_permissions_required_message">White Light requiere acceso a la cámara para prender la linterna</string>
+    <string name="dont_allow">RECHAZAR</string>
+    <string name="allow">PERMITIR</string>
+    <string name="theme_title">Estilo</string>
+    <string name="restart_light_title">Reiniciar la linterna cuando la pantalla se apague</string>
+    <string name="restart_light_message">Habilitar si la linterna se apaga cuando la pantalla se apague</string>
+    <string name="notification_title">Enseñar notificación</string>
+    <string name="notification_never">Nunca</string>
+    <string name="notification_sometimes">Cuando la pantalla esté bloqueada</string>
+    <string name="notification_always">Siempre</string>
+</resources>
